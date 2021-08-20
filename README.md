@@ -1,0 +1,2 @@
+# MsgBoxConstants
+iLineCount 
